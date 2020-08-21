@@ -2,7 +2,7 @@
 
 Hello, my name is Gonçalo Marques. 
 
-I’m a software engineer, with interest in Software Development and CloudOps.
+I’m a software engineer, with an interest in software development, DevOps and CloudOps.
 When I’m not working, I like to watch sports, running, hiking with my dog and traveling.
 
 You can find me at:
