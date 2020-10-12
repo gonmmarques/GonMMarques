@@ -12,9 +12,9 @@ You can find me at:
 
 
 
-<a href="https://github.com/GonMMarques/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GonMMarques&show_icons=true&include_all_commits=true&theme=dracula" alt="GonMMarques's github stats" />
 </a>
-<a href="https://github.com/GonMMarques/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonMMarques&layout=compact&theme=dracula" />
 </a>
