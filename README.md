@@ -4,7 +4,6 @@
 Hello, my name is Gonçalo Marques. 
 
 - 💻 **I’m a:** software engineer based in Lisbon 🇵🇹 with an interest in DevSecOps, FOSS and Agile methodologies;
-- 📚 **I'm currently reading:** [See my reading challenge](https://www.goodreads.com/challenges/11650-2021-reading-challenge)
 - 🤓 **I'm currently learning:** more about CloudOps, in particular AWS;
 - When I’m not working, I like to watch sports, running, hiking with my dog and traveling.
 
