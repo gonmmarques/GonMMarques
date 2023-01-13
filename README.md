@@ -4,7 +4,7 @@
 Hello, my name is Gonçalo Marques. 
 
 - 💻 **I’m a:** software engineer based in Lisbon 🇵🇹 with an interest in DevSecOps, FOSS and Agile methodologies;
-- 🤓 **I'm currently learning:** more about CloudOps, in particular AWS;
+- 🤓 **I'm currently learning:** more about Reactive programming, K8s and AWS;
 - When I’m not working, I like to watch sports, running, hiking with my dog and traveling.
 
 You can find me at:
@@ -15,8 +15,8 @@ You can find me at:
 
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GonMMarques&show_icons=true&include_all_commits=true&theme=dracula" alt="GonMMarques's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GonMMarques&show_icons=true&include_all_commits=true&theme=dracula&ver=ahaha" alt="GonMMarques's github stats" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonMMarques&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonMMarques&layout=compact&theme=dracula&&ver=gmm" />
 </a>
