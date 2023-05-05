@@ -4,8 +4,8 @@
 Hello, my name is Gonçalo Marques. 
 
 - 💻 **I’m a:** software engineer based in Lisbon 🇵🇹 with an interest in DevSecOps, FOSS and Agile methodologies;
-- 🤓 **I'm currently learning:** more about Reactive programming, K8s and AWS;
-- When I’m not working, I like to watch sports, running, hiking with my dog and traveling.
+- 🤓 **I'm currently learning:** more about GitHub Actions, K8s and AWS;
+- When I’m not working, I like to watch sports, running and traveling.
 
 You can find me at:
 
