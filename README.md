@@ -8,9 +8,9 @@ Hello, my name is Gonçalo Marques.
 - When I’m not working, I like to watch sports, running and traveling.
 
 You can find me at:
-
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@goncalo.m.marques)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/goncalommarques/)
+[<img alt="Website" src="https://img.shields.io/website?up_message=website&up_color=white&url=https%3A%2F%2Fgonmmarques.github.io&style=for-the-badge&label=%20%20%20" />](https://gonmmarques.github.io/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/goncalommarques/)
+[<img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@goncalo.m.marques)
 
 
 
